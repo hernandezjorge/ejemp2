@@ -1,0 +1,11 @@
+table,td{
+    border-collapse: collapse;
+   padding: 10px;
+   font-size: xx-large;
+font-family: Arial black;
+width: 80%;
+}
+
+pre{
+    font-size: xx-large;
+}
